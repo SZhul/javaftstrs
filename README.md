@@ -1,0 +1,2 @@
+# javaftstrs
+AQA Java repository
